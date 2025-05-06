@@ -9,6 +9,9 @@ img {
 button{
   cursor: pointer;
 }
+p {
+  font-family: "Times New Roman", Times, serif;
+}
 body {
     text-align: center;
     font-family: 'Arial';
